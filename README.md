@@ -185,11 +185,3 @@ Seditor/
 **A:** Tidak — seluruhnya memanfaatkan native frameworks.
 
 ---
-
-## Lisensi
-Tentukan lisensi proyek (mis. MIT/Apache‑2.0). Tambahkan berkas `LICENSE` di root repositori.
-
----
-
-## Kontributor
-Kontribusi sangat terbuka! Silakan buat **issue** atau **pull request** untuk perbaikan fitur, dokumentasi, atau bugfix.
