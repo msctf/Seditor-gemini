@@ -185,3 +185,5 @@ Seditor/
 **A:** Tidak — seluruhnya memanfaatkan native frameworks.
 
 ---
+## Support buat beli domain .id jadi gak pake (sakra.site) hehehe di bantu
+![Teks alternatif](support.jpg)
